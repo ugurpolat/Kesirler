@@ -16,10 +16,17 @@ Proje kapsamında geliştirilen oyunun ilköğretim üçüncü sınıf öğrenci
 Kesirler uygulaması öğrencilerin evde geçirdikleri zamanda kesirler konusuna çalıştıklarında konuyu daha iyi pekiştirmelerine yardımcı olmak için tasarlandı.Uygulama ilkokul 3. sınıf matematik(kesirler )müfredatını destekleyecek eğlenceli ve basit oyun seviyelerinden oluşmaktadır.
 
 ## İçerik
-Oyunda 10 adet bölüm bulunmaktadır. 
+Oyun öğretme metodunun temelini oluşturması gerektiği için oyunlar hikayeleştirilerek verilmiştir. Oyunda Uğur adlı öğrencinin okulda bir gününün nasıl geçtiği anlatılmaktadır. Oyunda 10 adet bölüm bulunmaktadır. 
+![](Screenshot_3.png)
 ![](Screenshot_1.png)
 
 Oyunu oynayan öğrencilerin temel bilgi düzeyleri bilinmediğinden oyunun bazı bölümlerinde oyuna başlamadan önce kısa bir şekilde kavramlar gösterilmektedir.
 ![](Screenshot_2.png)
 
 Oyun içinde Bütün, Yarım, Çeyrek, Kesir, Pay, Payda, Birim Kesir gibi 3.Sınıf Kesirler konusu müfredatında varolan kavramlar öğrenciye gösterilmiştir.
+
+## Nasıl Oynanır
+
+Oyunun bölümlerinde oyunu oynayan öğrencilerden istenen görevler farklıdır. Oyun sırasında veya oyundan önce oyunun nasıl oynandığı hakkında bilgilendirme öğrenciye gösterilir.
+![](hint.gif)
+![](Screenshot_4.png)
