@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Next
+  - T1
+  - T2
+  - T3
+  - T4
+  - Y1
+  - Y2
+  - C1
+  - C2
+  - C3
+  - egg1
+  - egg2
+  - egg3
+  - egg4
+  - egg5
+  - pizza
+  - pizza2
+  - pizza3
+  - pizza4
+  - pizza5
+  - pizza6
+  - pizza7
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2236822239
+    locked: 0
+  - name: Middleground
+    uniqueID: 2736445415
+    locked: 0
+  - name: Foreground
+    uniqueID: 3596203017
+    locked: 0
