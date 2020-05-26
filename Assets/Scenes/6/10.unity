@@ -576,7 +576,6 @@ MonoBehaviour:
   NextButton: {fileID: 722143137}
   Panel: {fileID: 1369316461}
   hint: {fileID: 860296565}
-  question: {fileID: 0}
   timer: 5
 --- !u!1 &178384987
 GameObject:
@@ -3453,8 +3452,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Arkada\u015Flar\u0131n\u0131n istedikleri pizza miktar\u0131 kadar\u0131n\u0131
-    tabaklar\u0131na koy."
+  m_Text: "Arkada\u015Flar\u0131n\u0131n istedikleri pizza miktar\u0131n\u0131 servis
+    yap."
 --- !u!222 &1249246273
 CanvasRenderer:
   m_ObjectHideFlags: 0
