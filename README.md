@@ -30,3 +30,5 @@ Oyun içinde Bütün, Yarım, Çeyrek, Kesir, Pay, Payda, Birim Kesir gibi 3.Sı
 Oyunun bölümlerinde oyunu oynayan öğrencilerden istenen görevler farklıdır. Oyun sırasında veya oyundan önce oyunun nasıl oynandığı hakkında bilgilendirme öğrenciye gösterilir.
 ![](hint.gif)
 ![](Screenshot_4.png)
+
+Oyun indirme linki- https://drive.google.com/drive/folders/10KawaLiRiISzR1MvcUFajivY5Gpy3SMI?usp=sharing
